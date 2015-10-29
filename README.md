@@ -3,8 +3,6 @@
 -----
 上篇：[下载链接 3.9M](https://github.com/mobileperfman/BookResource/raw/master/Android%E7%BB%88%E7%AB%AF%E4%B8%93%E9%A1%B9%E5%AE%9D%E5%85%B8-%E4%B8%8A%E7%AF
 %87%20\(%E5%85%88%E8%A1%8C%E7%89%88\)%20.pdf)
-
-
 下篇：[下载连接 4.2M](https://github.com/mobileperfman/BookResource/raw/master/Android%E7%BB%88%E7%AB%AF%E4%B8%93%E9%A1%B9%E5%AE%9D%E5%85%B8-%E4%B8%8B%E7%AF%87%20\(%E5%85%88%E8%A1%8C%E7%89%88\)%20.pdf)
 
 先行版
