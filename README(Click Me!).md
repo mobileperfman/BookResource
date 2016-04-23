@@ -1,4 +1,10 @@
-# Android终端专项宝典及资源
+# Android终端专项宝典及NewMonkey随身版试用
+
+
+NewMonkey随身版下载（需要ROOT权限）
+-----
+[下载链接 5.3M](http://perfman-book.stor.sinaapp.com/newmonkey-demo-release.apk)
+
 宝典先行版（请用浏览器打开）
 -----
 下载：
