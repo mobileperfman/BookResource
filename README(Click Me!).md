@@ -3,14 +3,14 @@ PS:请用浏览器打开此页面
 
 NewMonkey随身版下载（需要ROOT权限）
 -----
-[下载链接 4.9M](http://perfman-book.stor.sinaapp.com/newmonkey-demo-release.apk)
+[下载链接 4.9M](http://pan.baidu.com/s/1hrAEtY8)
 
 宝典先行版
 -----
 下载：
 
-上篇：[下载链接 3.9M](http://perfman-book.stor.sinaapp.com/Android%E7%BB%88%E7%AB%AF%E4%B8%93%E9%A1%B9%E5%AE%9D%E5%85%B8-%E4%B8%8A%E7%AF%87%20%28%E5%85%88%E8%A1%8C%E7%89%88%29.pdf)
-下篇：[下载连接 4.2M](http://perfman-book.stor.sinaapp.com/Android%E7%BB%88%E7%AB%AF%E4%B8%93%E9%A1%B9%E5%AE%9D%E5%85%B8-%E4%B8%8B%E7%AF%87%20%28%E5%85%88%E8%A1%8C%E7%89%88%29.pdf)
+上篇：[下载链接 3.9M](http://pan.baidu.com/s/1pLeSnf9)
+下篇：[下载连接 4.2M](http://pan.baidu.com/s/1c2uhJ2K)
 
 
 github下载：
